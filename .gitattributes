@@ -9,3 +9,6 @@ content/docker_v1.0.1.ign filter=lfs diff=lfs merge=lfs -text
 content/node_1.0.1.ign filter=lfs diff=lfs merge=lfs -text
 content/ovn_16e1a3cf.ign filter=lfs diff=lfs merge=lfs -text
 content/ovs_2.70beta.ign filter=lfs diff=lfs merge=lfs -text
+templates/base.template filter=lfs diff=lfs merge=lfs -text
+templates/win10.0.17763.template filter=lfs diff=lfs merge=lfs -text
+templates/windefault.template filter=lfs diff=lfs merge=lfs -text

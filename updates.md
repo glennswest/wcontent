@@ -6,3 +6,4 @@ winnodeman: Wed May 22 15:14:13 2019 -0500 a260c34 gwest@redhat.com Fix download
 winnodeman: Wed May 22 17:29:32 2019 -0500 31f1fde gwest@redhat.com fix build script
 winnodeman: Wed May 22 17:30:10 2019 -0500 4c98f3f gwest@redhat.com Fix quotes
 winnodeman: Wed May 22 18:05:15 2019 -0500 51eb451 gwest@redhat.com Fix url for pulling ignition file
+winnodeman: Wed May 22 18:28:30 2019 -0500 4583cee gwest@redhat.com Do not pass wmurl to command execution

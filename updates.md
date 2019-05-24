@@ -8,3 +8,4 @@ winnodeman: Wed May 22 17:30:10 2019 -0500 4c98f3f gwest@redhat.com Fix quotes
 winnodeman: Wed May 22 18:05:15 2019 -0500 51eb451 gwest@redhat.com Fix url for pulling ignition file
 winnodeman: Wed May 22 18:28:30 2019 -0500 4583cee gwest@redhat.com Do not pass wmurl to command execution
 winnodeman: Wed May 22 18:28:30 2019 -0500 4583cee gwest@redhat.com Do not pass wmurl to command execution
+winnodeman: Fri May 24 08:50:12 2019 -0500 88a4f5d gwest@redhat.com Remove verbose messaging on store

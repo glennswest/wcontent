@@ -9,3 +9,4 @@ winnodeman: Wed May 22 18:05:15 2019 -0500 51eb451 gwest@redhat.com Fix url for 
 winnodeman: Wed May 22 18:28:30 2019 -0500 4583cee gwest@redhat.com Do not pass wmurl to command execution
 winnodeman: Wed May 22 18:28:30 2019 -0500 4583cee gwest@redhat.com Do not pass wmurl to command execution
 winnodeman: Fri May 24 08:50:12 2019 -0500 88a4f5d gwest@redhat.com Remove verbose messaging on store
+winnodeman: Wed May 29 15:07:16 2019 -0500 e4c0514 gwest@redhat.com Generate masterip at the node level
